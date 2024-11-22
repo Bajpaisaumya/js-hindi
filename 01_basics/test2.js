@@ -1,0 +1,1 @@
+console.log("Hello this is my 2nd js file.")
